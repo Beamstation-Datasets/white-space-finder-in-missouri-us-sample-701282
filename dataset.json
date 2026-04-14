@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "expansion",
+  "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Missouri that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
+  "config_name": "White Space Finder in Missouri, US",
+  "export_job_id": "28cbd917-ce73-4f00-951c-2aa367753e1d",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 701282,
+  "location_name": "Missouri",
+  "location_type": "state",
+  "repo_name": "white-space-finder-in-missouri-us-sample-701282",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/701282/beamstation_701282_food_and_drink-us-mo_SAMPLE_DIST.csv",
+  "sample_pct": 33.33,
+  "sample_records": 1,
+  "sample_sha256": "06a489934e87b933735a0bee7f280199d91ff29c5f2350675b3973561ad0253d",
+  "sample_size_bytes": 20133,
+  "total_records": 3,
+  "updated_at": "2026-04-07T15:18:00.829797+00:00"
+}
