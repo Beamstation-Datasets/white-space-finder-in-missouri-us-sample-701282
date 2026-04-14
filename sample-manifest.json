@@ -1,0 +1,12 @@
+{
+  "export_job_id": "28cbd917-ce73-4f00-951c-2aa367753e1d",
+  "id_short": 701282,
+  "published_at": "2026-04-14T19:48:00Z",
+  "repo_name": "white-space-finder-in-missouri-us-sample-701282",
+  "sample_asset_name": "beamstation_701282_food_and_drink-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/701282/beamstation_701282_food_and_drink-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 1,
+  "sample_sha256": "06a489934e87b933735a0bee7f280199d91ff29c5f2350675b3973561ad0253d",
+  "sample_size_bytes": 20133,
+  "total_records": 3
+}
