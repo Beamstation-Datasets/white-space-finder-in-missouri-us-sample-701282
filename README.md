@@ -9,9 +9,9 @@
 | Dataset ID | `701282` |
 | Location | Missouri |
 | Category | Restaurants |
-| Full dataset size | 4 records |
-| Free sample size | 1 records (25.0%) |
-| Last export | 2026-04-14T21:43:33.483896+00:00 |
+| Full dataset size | 9 records |
+| Free sample size | 1 records (11.11%) |
+| Last export | 2026-04-22T00:23:50.931114+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-missouri-us-sample-701282/releases/download/sample-latest/beamstation_701282_food_and_drink-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
